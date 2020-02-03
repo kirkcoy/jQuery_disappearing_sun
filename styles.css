@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* outline: red solid 1px; */
+}
+
+
+.container {
+    margin: 10px 100px;
+    text-align: center;
+    color: green;
+}
+
+    p {
+        text-align: justify;
+        margin: 10px 50px;
+        color: blue;
+    }
+
+    button {
+        background-color: red;
+        box-shadow: 1px 1px 1px;
+        font-size: 12px;
+        font-weight: bold;
+        padding: 10px;
+        border-radius: 5px;
+        color: greenyellow;
+    }
